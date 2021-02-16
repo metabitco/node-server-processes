@@ -10,7 +10,7 @@
         "socket.io": "^2.2.0",
         "statsd": "^0.8.0",
         "statsd-socket.io": "^0.0.6",
-        "systeminformation": "^4.11.3",
+        "systeminformation": "^5.3.1",
         "uuid": "^3.3.2",
         "winston": "^3.2.1"
     },
