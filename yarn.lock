@@ -1410,10 +1410,10 @@ supports-color@^5.3.0:
   dependencies:
     has-flag "^3.0.0"
 
-systeminformation@^4.11.3:
-  version "4.11.3"
-  resolved "https://registry.yarnpkg.com/systeminformation/-/systeminformation-4.11.3.tgz#14d6b58906672ff652610f546dc6e468a4d9a62d"
-  integrity sha512-67+GNhi79Eh8NkRJeKfVDdiZy219FBrEm+6UN+r5ZVDil4BAc2LsVbLGNeJ1FLRNalvotaoBYddEtqWC0+2Yjw==
+systeminformation@^5.6.4:
+  version "5.6.4"
+  resolved "https://registry.yarnpkg.com/systeminformation/-/systeminformation-5.6.4.tgz#5f32fcb05a5849e2a0e71b182c1f56ce32219310"
+  integrity sha512-b2tvW1R+qjNEoAGgh734EGLgqbDMghjsHRaWo36skAC6JM1tw1pitcGz/REt+qSIRSXbE4PKECojhaSrBRrEmw==
 
 text-hex@1.0.x:
   version "1.0.0"
